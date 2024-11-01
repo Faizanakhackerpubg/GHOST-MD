@@ -1,8 +1,8 @@
-// config.js
-const fs = require("fs");
-require("dotenv").config();
+// config.jsGHOST-MD&07jvw0UQ
+const fs = require("fs");GHOST-MD&07jvw0UQ
+require("dotenv").config());GHOST-MD&07jvw0UQ
 
-const config = {
+const config = {GHOST-MD&07jvw0UQ
   SESSION_ID: process.env.SESSION_ID || "GHOST-MD&yPU3SRkf",
   PREFIX: process.env.PREFIX || '.',
   AUTO_STATUS_SEEN: process.env.AUTO_STATUS_SEEN !== undefined ? process.env.AUTO_STATUS_SEEN === 'true' : true, 
